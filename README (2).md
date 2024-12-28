@@ -4,19 +4,16 @@ This repository contains a collection of my computer vision projects, all implem
 
 ## Projects
 
-### 1. Handwritten Digit Classifier
-A neural network model built from scratch to classify handwritten digits using the MNIST dataset. The model is trained using backpropagation and gradient descent, without using pre-built deep learning libraries.
-
-### 2. Gaussian Mixture Model Object Detector
+### 1. Gaussian Mixture Model Object Detector
 An object detection algorithm that leverages a Gaussian Mixture Model (GMM) for detecting and segmenting objects in images. The implementation includes the Expectation-Maximization (EM) algorithm to estimate the parameters of the GMM.
 
-### 3. Panorama Stitcher
+### 2. Panorama Stitcher
 A project that stitches multiple images into a single panoramic image. The algorithm includes feature matching, homography estimation, and image blending, all implemented from scratch without relying on high-level libraries like OpenCV.
 
-### 4. Depth Estimator (Stereo Vision)
+### 3. Depth Estimator (Stereo Vision)
 Estimate the depth of objects in a scene using stereo vision. By processing two images from different viewpoints, compute disparity maps and estimates the depth of each point in the scene, using feature matching, epipolar geometry, and disparity calculation, all written from scratch.
 
-### 5. Two-View 3D Reconstruction
+### 54 Two-View 3D Reconstruction
 A 3D reconstruction project that takes two images from different viewpoints and reconstructs the 3D scene. It involves camera calibration, feature matching, and linear triangulation to estimate the 3D coordinates of the scene.
 
 
